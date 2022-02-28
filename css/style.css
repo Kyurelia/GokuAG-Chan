@@ -4,10 +4,10 @@ footer{
     justify-content: space-around;
    text-align: center;
 }
-img{
+.foot{
    width: 30%;
    height: 20%;
 }
-p{
+.marg{
     margin-top: 3%;
 }
