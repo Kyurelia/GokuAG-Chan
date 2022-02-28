@@ -1,0 +1,18 @@
+img {
+	max-width: 100%;
+}
+.nav {
+	display: flex;
+	justify-content: space-around;
+	background: black;
+	align-items: center;
+}
+
+.header {
+	text-decoration: none;
+	color: inherit;
+
+}
+.wid {
+	width: 5%;
+}
