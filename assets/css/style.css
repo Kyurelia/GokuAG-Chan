@@ -3,7 +3,7 @@ img {
 }
 .nav {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	background: black;
 	align-items: center;
 }
@@ -11,6 +11,8 @@ img {
 .header {
 	text-decoration: none;
 	color: inherit;
+	display: flex;
+	justify-content: center;
 
 }
 .wid {
